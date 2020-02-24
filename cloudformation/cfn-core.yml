@@ -1,0 +1,5 @@
+# Just to check in repo / git is working
+# TODO:
+# - create cloudwatch scheduled event for Lambda to pull scores
+# - create SNS topic / SMS notifications to my mobile
+# - send scores via SMS / email
